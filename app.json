@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "Terminal Pocket",
+    "slug": "termux-mobile-ui",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "backgroundColor": "#000000",
+    "android": {
+      "package": "com.alidefne064.terminalpocket",
+      "adaptiveIcon": {
+        "backgroundColor": "#000000"
+      }
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.alidefne064.terminalpocket"
+    }
+  }
+}
